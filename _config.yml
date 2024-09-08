@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yun Hong"
+  name             : "Yun Hong（洪运）"
   pronouns         : # example: "she/her"  
-  bio              : 
+  bio              : "Nanjing University"
   location         : "Nanjing, China"
-  employer         : "Nanjing University"
+  employer         : # "Nanjing University"
   uri              : # URL
   email            : "hongy@smail.nju.edu.cn" 
 
