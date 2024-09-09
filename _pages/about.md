@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm now an undergraduate student from [Nanjing University](https://www.nju.edu.cn/). My main research interests are machine learning and its broad applications. In the past, my research topic was AI for science, and now I'm working in the field of natural language processing.
+I'm now an undergraduate student from [Nanjing University](https://www.nju.edu.cn/). My main research interests are machine learning and its broad applications. In the past, my research topic was AI for science, and now I'm focusing on the field of natural language processing.
